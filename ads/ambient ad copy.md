@@ -1,4 +1,4 @@
-
+TODO:  I think the difference is one is video views and the other is App installs
 
 Headlines: 
 
@@ -8,6 +8,12 @@ Boost Focus Anytime
 Experience Peaceful Serenity
 Transform Your Environment
 
+
+Long headline:
+Achieve Zen-like concentration with our ambient noise generator
+
+Call To Action
+Install
 
 
 Descriptions:
@@ -19,13 +25,18 @@ Achieve Zen-like concentration with our ambient noise generator
 Fall asleep faster and wake up refreshed with our soothing noise
 
 
-Video ad (Ambient)
-https://youtube.com/shorts/BDXDXKXAgA8?feature=share
+Video URL (Ambient): 	
+https://youtube.com/shorts/9UEQoL27XOE
 
 Play store URL:
 https://play.google.com/store/apps/details?id=com.buachaillmaith.ambient_power_native
 
 
+Keywords:
+focus, productivity, noise generator, white noise, pink noise, brown noise, ambient noise
+
+
+Target CPA or CPV is 0.02
 
 
 1. **Create a New Campaign:**
